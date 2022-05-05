@@ -1,5 +1,0 @@
-CREATE TABLE emp(
-	emp_id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    first_name VARCHAR(25) NOT NULL,
-    salary INT NOT NULL
-);
